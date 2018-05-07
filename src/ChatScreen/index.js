@@ -12,6 +12,7 @@ import {
   FooterTab,
   Label
 } from "native-base";
+
 export default (MainScreenNavigator = TabNavigator(
   {
     LucyChat: { screen: props => <LucyChat {...props} /> },
