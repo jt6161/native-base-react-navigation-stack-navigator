@@ -1,8 +1,9 @@
 {
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 3608,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "packagerPid": 6280,
+  "expoServerNgrokUrl": "https://km-zyh.jlt.native-base-react-navigation-stack-navigator.exp.direct",
+  "packagerNgrokUrl": "https://packager.km-zyh.jlt.native-base-react-navigation-stack-navigator.exp.direct",
+  "ngrokPid": 6293,
+  "devToolsPort": 19002
 }
